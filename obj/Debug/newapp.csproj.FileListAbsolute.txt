@@ -1,0 +1,3 @@
+C:\Users\KRUPA\source\repos\webapp1\webapp1\obj\Debug\newapp.csprojAssemblyReference.cache
+C:\Users\KRUPA\source\repos\webapp1\webapp1\obj\Debug\webapp1.dll
+C:\Users\KRUPA\source\repos\webapp1\webapp1\obj\Debug\webapp1.pdb
